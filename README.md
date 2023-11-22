@@ -19,3 +19,4 @@ This Python project utilizes the Tkinter library for GUI, allowing users to enco
 4. Decoding:
 * Enter the path of the encoded image.
 * Click on "Decode the Image" to retrieve the hidden message.
+https://github.com/METTUYAMINI/imagesteganography/assets/143019561/2bfdc611-cb1b-4714-93e2-1887f64dd117
